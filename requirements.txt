@@ -1,0 +1,10 @@
+matplotlib
+pandas
+numpy
+scipy
+seaborn
+sklearn
+tf-nightly
+tensorflow
+keras
+opencv-python
